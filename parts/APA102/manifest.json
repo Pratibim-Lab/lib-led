@@ -1,0 +1,17 @@
+{
+  "id": "LED/APA102:APA102",
+  "name": "APA102",
+  "library": "LED",
+  "file": "LED.kicad_symdir/APA102.kicad_sym",
+  "description": "RGB LED with integrated controller",
+  "datasheet": "http://www.led-color.com/upload/201506/APA102%20LED.pdf",
+  "keywords": "RGB LED addressable 8bit pwm 5bit greyscale",
+  "footprint": "LED_SMD:LED_RGB_5050-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/APA102/",
+  "part_path": "parts/APA102",
+  "symbol_file": "parts/APA102/APA102.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.266Z"
+}

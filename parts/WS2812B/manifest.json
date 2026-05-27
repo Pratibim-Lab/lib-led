@@ -1,0 +1,17 @@
+{
+  "id": "LED/WS2812B:WS2812B",
+  "name": "WS2812B",
+  "library": "LED",
+  "file": "LED.kicad_symdir/WS2812B.kicad_sym",
+  "description": "RGB LED with integrated controller",
+  "datasheet": "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf",
+  "keywords": "RGB LED NeoPixel addressable",
+  "footprint": "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/WS2812B/",
+  "part_path": "parts/WS2812B",
+  "symbol_file": "parts/WS2812B/WS2812B.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.399Z"
+}

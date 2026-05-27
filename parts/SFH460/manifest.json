@@ -1,0 +1,17 @@
+{
+  "id": "LED/SFH460:SFH460",
+  "name": "SFH460",
+  "library": "LED",
+  "file": "LED.kicad_symdir/SFH460.kicad_sym",
+  "description": "GaAlAs Infrared LED, TO-18 package",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic6/00029609_0.pdf/SFh%20460.pdf",
+  "keywords": "opto IR LED",
+  "footprint": "Package_TO_SOT_THT:TO-18-2_Window",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/SFH460/",
+  "part_path": "parts/SFH460",
+  "symbol_file": "parts/SFH460/SFH460.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.373Z"
+}

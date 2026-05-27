@@ -1,0 +1,17 @@
+{
+  "id": "LED/LiteOn_LTST-E563C:LiteOn_LTST-E563C",
+  "name": "LiteOn_LTST-E563C",
+  "library": "LED",
+  "file": "LED.kicad_symdir/LiteOn_LTST-E563C.kicad_sym",
+  "description": "5x5mm RGB LED with integrated controller",
+  "datasheet": "https://optoelectronics.liteon.com/upload/download/DS35-2018-0092/LTST-E563CHEGBW-AW.PDF",
+  "keywords": "RGB LED addressable 5050",
+  "footprint": "LED_SMD:LED_LiteOn_LTST-E563C_PLCC4_5.0x5.0mm_P3.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/LiteOn_LTST-E563C/",
+  "part_path": "parts/LiteOn_LTST-E563C",
+  "symbol_file": "parts/LiteOn_LTST-E563C/LiteOn_LTST-E563C.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.354Z"
+}

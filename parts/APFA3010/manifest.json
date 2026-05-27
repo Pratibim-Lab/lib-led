@@ -1,0 +1,17 @@
+{
+  "id": "LED/APFA3010:APFA3010",
+  "name": "APFA3010",
+  "library": "LED",
+  "file": "LED.kicad_symdir/APFA3010.kicad_sym",
+  "description": "LED RGB, Common Anode, SMD, 3.0x1.5mm, Horizontal",
+  "datasheet": "http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf",
+  "keywords": "LED RGB SMD Kingbright APFA3010 Horizontal",
+  "footprint": "LED_SMD:LED_Kingbright_APFA3010_3x1.5mm_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/APFA3010/",
+  "part_path": "parts/APFA3010",
+  "symbol_file": "parts/APFA3010/APFA3010.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.267Z"
+}

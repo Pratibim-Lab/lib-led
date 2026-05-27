@@ -1,0 +1,17 @@
+{
+  "id": "LED/CLS6B-FKW:CLS6B-FKW",
+  "name": "CLS6B-FKW",
+  "library": "LED",
+  "file": "LED.kicad_symdir/CLS6B-FKW.kicad_sym",
+  "description": "Cree PLCC6 3 in 1 SMD LED, PLCC-6",
+  "datasheet": "https://www.cree.com/led-components/media/documents/CLS6B-FKW.pdf",
+  "keywords": "LED RGB",
+  "footprint": "LED_SMD:LED_Cree-PLCC6_4.7x1.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/CLS6B-FKW/",
+  "part_path": "parts/CLS6B-FKW",
+  "symbol_file": "parts/CLS6B-FKW/CLS6B-FKW.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.277Z"
+}

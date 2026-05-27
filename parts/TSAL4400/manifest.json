@@ -1,0 +1,17 @@
+{
+  "id": "LED/TSAL4400:TSAL4400",
+  "name": "TSAL4400",
+  "library": "LED",
+  "file": "LED.kicad_symdir/TSAL4400.kicad_sym",
+  "description": "Infrared LED , 3mm LED package",
+  "datasheet": "http://www.vishay.com/docs/81006/tsal4400.pdf",
+  "keywords": "opto IR LED",
+  "footprint": "LED_THT:LED_D3.0mm_IRBlack",
+  "extends": "SFH4356P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/TSAL4400/",
+  "part_path": "parts/TSAL4400",
+  "symbol_file": "parts/TSAL4400/TSAL4400.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.392Z"
+}

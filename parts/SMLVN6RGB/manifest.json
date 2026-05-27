@@ -1,0 +1,17 @@
+{
+  "id": "LED/SMLVN6RGB:SMLVN6RGB",
+  "name": "SMLVN6RGB",
+  "library": "LED",
+  "file": "LED.kicad_symdir/SMLVN6RGB.kicad_sym",
+  "description": "High Brightness Tri-Color LED, RGB, 3.5x2.8mm",
+  "datasheet": "https://www.rohm.com/datasheet/SMLVN6RGB1U",
+  "keywords": "LED RGB Diode",
+  "footprint": "LED_SMD:LED_ROHM_SMLVN6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/SMLVN6RGB/",
+  "part_path": "parts/SMLVN6RGB",
+  "symbol_file": "parts/SMLVN6RGB/SMLVN6RGB.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.389Z"
+}

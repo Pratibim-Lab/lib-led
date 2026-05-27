@@ -1,0 +1,17 @@
+{
+  "id": "LED/HDSP-4840:HDSP-4840",
+  "name": "HDSP-4840",
+  "library": "LED",
+  "file": "LED.kicad_symdir/HDSP-4840.kicad_sym",
+  "description": "10-element LED arrays, Yellow",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-1798EN",
+  "keywords": "display LED array",
+  "footprint": "Display:HDSP-4840",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/HDSP-4840/",
+  "part_path": "parts/HDSP-4840",
+  "symbol_file": "parts/HDSP-4840/HDSP-4840.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.303Z"
+}

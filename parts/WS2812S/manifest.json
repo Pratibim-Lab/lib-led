@@ -1,0 +1,17 @@
+{
+  "id": "LED/WS2812S:WS2812S",
+  "name": "WS2812S",
+  "library": "LED",
+  "file": "LED.kicad_symdir/WS2812S.kicad_sym",
+  "description": "RGB LED with integrated controller",
+  "datasheet": "http://www.world-semi.com/DownLoadFile/115",
+  "keywords": "RGB LED addressable",
+  "footprint": "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/WS2812S/",
+  "part_path": "parts/WS2812S",
+  "symbol_file": "parts/WS2812S/WS2812S.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.401Z"
+}

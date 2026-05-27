@@ -1,0 +1,17 @@
+{
+  "id": "LED/LED_Cree_XHP70_6V:LED_Cree_XHP70_6V",
+  "name": "LED_Cree_XHP70_6V",
+  "library": "LED",
+  "file": "LED.kicad_symdir/LED_Cree_XHP70_6V.kicad_sym",
+  "description": "XLamp® XHP70 LED, 6V footprint (2x2 serial LEDs in parallel)",
+  "datasheet": "http://www.cree.com/%7E/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf",
+  "keywords": "led diode",
+  "footprint": "LED_SMD:LED_Cree-XHP70_6V",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/LED_Cree_XHP70_6V/",
+  "part_path": "parts/LED_Cree_XHP70_6V",
+  "symbol_file": "parts/LED_Cree_XHP70_6V/LED_Cree_XHP70_6V.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.351Z"
+}

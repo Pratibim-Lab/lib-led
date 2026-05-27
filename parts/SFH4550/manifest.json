@@ -1,0 +1,17 @@
+{
+  "id": "LED/SFH4550:SFH4550",
+  "name": "SFH4550",
+  "library": "LED",
+  "file": "LED.kicad_symdir/SFH4550.kicad_sym",
+  "description": "950nm High-Power IR-LED, 5mm",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic3/00116140_0.pdf",
+  "keywords": "IR LED",
+  "footprint": "LED_THT:LED_D5.0mm_IRGrey",
+  "extends": "LD271",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/SFH4550/",
+  "part_path": "parts/SFH4550",
+  "symbol_file": "parts/SFH4550/SFH4550.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.371Z"
+}

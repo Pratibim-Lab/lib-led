@@ -1,0 +1,17 @@
+{
+  "id": "LED/WS2813:WS2813",
+  "name": "WS2813",
+  "library": "LED",
+  "file": "LED.kicad_symdir/WS2813.kicad_sym",
+  "description": "RGB LED with integrated controller",
+  "datasheet": "http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf",
+  "keywords": "RGB LED addressable",
+  "footprint": "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/WS2813/",
+  "part_path": "parts/WS2813",
+  "symbol_file": "parts/WS2813/WS2813.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.403Z"
+}

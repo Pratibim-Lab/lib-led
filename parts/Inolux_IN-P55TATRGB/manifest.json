@@ -1,0 +1,17 @@
+{
+  "id": "LED/Inolux_IN-P55TATRGB:Inolux_IN-P55TATRGB",
+  "name": "Inolux_IN-P55TATRGB",
+  "library": "LED",
+  "file": "LED.kicad_symdir/Inolux_IN-P55TATRGB.kicad_sym",
+  "description": "Inolux RGB LED, PLCC-6",
+  "datasheet": "https://www.inolux-corp.com/datasheet/SMDLED/RGB%20Top%20View/IN-P55TATRGB.pdf",
+  "keywords": "LED RGB",
+  "footprint": "LED_SMD:LED_Inolux_IN-P55TATRGB_PLCC6_5.0x5.5mm_P1.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/Inolux_IN-P55TATRGB/",
+  "part_path": "parts/Inolux_IN-P55TATRGB",
+  "symbol_file": "parts/Inolux_IN-P55TATRGB/Inolux_IN-P55TATRGB.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.315Z"
+}

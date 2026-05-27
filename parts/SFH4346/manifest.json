@@ -1,0 +1,17 @@
+{
+  "id": "LED/SFH4346:SFH4346",
+  "name": "SFH4346",
+  "library": "LED",
+  "file": "LED.kicad_symdir/SFH4346.kicad_sym",
+  "description": "Infrared LED , 3mm LED package",
+  "datasheet": "http://cdn-reichelt.de/documents/datenblatt/A500/SFH4346.pdf",
+  "keywords": "opto IR LED",
+  "footprint": "LED_THT:LED_D3.0mm_IRBlack",
+  "extends": "SFH4356P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/SFH4346/",
+  "part_path": "parts/SFH4346",
+  "symbol_file": "parts/SFH4346/SFH4346.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.365Z"
+}

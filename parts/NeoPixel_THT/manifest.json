@@ -1,0 +1,17 @@
+{
+  "id": "LED/NeoPixel_THT:NeoPixel_THT",
+  "name": "NeoPixel_THT",
+  "library": "LED",
+  "file": "LED.kicad_symdir/NeoPixel_THT.kicad_sym",
+  "description": "RGB LED with integrated controller, 5mm/8mm LED package",
+  "datasheet": "https://www.adafruit.com/product/1938",
+  "keywords": "RGB LED NeoPixel addressable",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/NeoPixel_THT/",
+  "part_path": "parts/NeoPixel_THT",
+  "symbol_file": "parts/NeoPixel_THT/NeoPixel_THT.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.358Z"
+}

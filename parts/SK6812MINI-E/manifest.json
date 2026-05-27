@@ -1,0 +1,17 @@
+{
+  "id": "LED/SK6812MINI-E:SK6812MINI-E",
+  "name": "SK6812MINI-E",
+  "library": "LED",
+  "file": "LED.kicad_symdir/SK6812MINI-E.kicad_sym",
+  "description": "RGB LED with integrated controller",
+  "datasheet": "https://www.lcsc.com/datasheet/C5149201.pdf",
+  "keywords": "RGB LED NeoPixel addressable",
+  "footprint": "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",
+  "extends": "SK6812",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/SK6812MINI-E/",
+  "part_path": "parts/SK6812MINI-E",
+  "symbol_file": "parts/SK6812MINI-E/SK6812MINI-E.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.385Z"
+}

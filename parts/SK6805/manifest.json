@@ -1,0 +1,17 @@
+{
+  "id": "LED/SK6805:SK6805",
+  "name": "SK6805",
+  "library": "LED",
+  "file": "LED.kicad_symdir/SK6805.kicad_sym",
+  "description": "RGB LED with integrated controller",
+  "datasheet": "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf",
+  "keywords": "RGB LED NeoPixel Nano addressable",
+  "footprint": "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/SK6805/",
+  "part_path": "parts/SK6805",
+  "symbol_file": "parts/SK6805/SK6805.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.380Z"
+}

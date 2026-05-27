@@ -1,0 +1,17 @@
+{
+  "id": "LED/CQY99:CQY99",
+  "name": "CQY99",
+  "library": "LED",
+  "file": "LED.kicad_symdir/CQY99.kicad_sym",
+  "description": "950nm IR-LED, 5mm",
+  "datasheet": "https://www.prtice.info/IMG/pdf/CQY99.pdf",
+  "keywords": "IR LED",
+  "footprint": "LED_THT:LED_D5.0mm_IRGrey",
+  "extends": "LD271",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/CQY99/",
+  "part_path": "parts/CQY99",
+  "symbol_file": "parts/CQY99/CQY99.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.283Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "LED/HDSP-4832_2:HDSP-4832_2",
+  "name": "HDSP-4832_2",
+  "library": "LED",
+  "file": "LED.kicad_symdir/HDSP-4832_2.kicad_sym",
+  "description": "BAR GRAPH 10 segment block, Mix of high efficiency red, yellow and green",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-1798EN",
+  "keywords": "display LED array",
+  "footprint": "Display:HDSP-4832",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/HDSP-4832_2/",
+  "part_path": "parts/HDSP-4832_2",
+  "symbol_file": "parts/HDSP-4832_2/HDSP-4832_2.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.288Z"
+}

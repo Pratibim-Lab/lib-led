@@ -1,0 +1,17 @@
+{
+  "id": "LED/WS2812B-2020:WS2812B-2020",
+  "name": "WS2812B-2020",
+  "library": "LED",
+  "file": "LED.kicad_symdir/WS2812B-2020.kicad_sym",
+  "description": "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA",
+  "datasheet": "https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf",
+  "keywords": "RGB LED NeoPixel Nano addressable",
+  "footprint": "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/WS2812B-2020/",
+  "part_path": "parts/WS2812B-2020",
+  "symbol_file": "parts/WS2812B-2020/WS2812B-2020.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.396Z"
+}

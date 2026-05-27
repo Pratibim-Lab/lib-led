@@ -1,0 +1,17 @@
+{
+  "id": "LED/SFH4546:SFH4546",
+  "name": "SFH4546",
+  "library": "LED",
+  "file": "LED.kicad_symdir/SFH4546.kicad_sym",
+  "description": "High-Power IR LED 940nm",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic1/00101982_0.pdf",
+  "keywords": "IR LED",
+  "footprint": "LED_THT:LED_D5.0mm_IRGrey",
+  "extends": "LD271",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/SFH4546/",
+  "part_path": "parts/SFH4546",
+  "symbol_file": "parts/SFH4546/SFH4546.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.369Z"
+}

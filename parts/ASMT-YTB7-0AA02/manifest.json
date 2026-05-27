@@ -1,0 +1,17 @@
+{
+  "id": "LED/ASMT-YTB7-0AA02:ASMT-YTB7-0AA02",
+  "name": "ASMT-YTB7-0AA02",
+  "library": "LED",
+  "file": "LED.kicad_symdir/ASMT-YTB7-0AA02.kicad_sym",
+  "description": "Triple LED RVB (Avago Technology)",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-3793EN",
+  "keywords": "LED RGB",
+  "footprint": "LED_SMD:LED_Avago_PLCC6_3x2.8mm",
+  "extends": "ASMT-YTC2-0AA02",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/ASMT-YTB7-0AA02/",
+  "part_path": "parts/ASMT-YTB7-0AA02",
+  "symbol_file": "parts/ASMT-YTB7-0AA02/ASMT-YTB7-0AA02.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.273Z"
+}

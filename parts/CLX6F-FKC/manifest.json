@@ -1,0 +1,17 @@
+{
+  "id": "LED/CLX6F-FKC:CLX6F-FKC",
+  "name": "CLX6F-FKC",
+  "library": "LED",
+  "file": "LED.kicad_symdir/CLX6F-FKC.kicad_sym",
+  "description": "RGB LED, PLCC-6",
+  "datasheet": "https://assets.cree-led.com/a/ds/h/HB-CLX6F-FKC.pdf",
+  "keywords": "LED RGB",
+  "footprint": "LED_SMD:LED_RGB_PLCC-6",
+  "extends": "ASMT-YTC2-0AA02",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/CLX6F-FKC/",
+  "part_path": "parts/CLX6F-FKC",
+  "symbol_file": "parts/CLX6F-FKC/CLX6F-FKC.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.281Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "LED/HDSP-4832:HDSP-4832",
+  "name": "HDSP-4832",
+  "library": "LED",
+  "file": "LED.kicad_symdir/HDSP-4832.kicad_sym",
+  "description": "10-element LED arrays, Mix of high efficient red, yellow and green",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-1798EN",
+  "keywords": "display LED array",
+  "footprint": "Display:HDSP-4832",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/HDSP-4832/",
+  "part_path": "parts/HDSP-4832",
+  "symbol_file": "parts/HDSP-4832/HDSP-4832.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.293Z"
+}

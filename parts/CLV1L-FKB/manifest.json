@@ -1,0 +1,17 @@
+{
+  "id": "LED/CLV1L-FKB:CLV1L-FKB",
+  "name": "CLV1L-FKB",
+  "library": "LED",
+  "file": "LED.kicad_symdir/CLV1L-FKB.kicad_sym",
+  "description": "Cree PLCC4 3 in 1 SMD LED",
+  "datasheet": "http://www.cree.com/led-components/media/documents/CLV1L-FKB-1238.pdf",
+  "keywords": "led rgb diode",
+  "footprint": "LED_SMD:LED_Cree-PLCC4_3.2x2.8mm_CCW",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/CLV1L-FKB/",
+  "part_path": "parts/CLV1L-FKB",
+  "symbol_file": "parts/CLV1L-FKB/CLV1L-FKB.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.279Z"
+}

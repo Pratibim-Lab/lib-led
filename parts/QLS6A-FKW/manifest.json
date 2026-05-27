@@ -1,0 +1,17 @@
+{
+  "id": "LED/QLS6A-FKW:QLS6A-FKW",
+  "name": "QLS6A-FKW",
+  "library": "LED",
+  "file": "LED.kicad_symdir/QLS6A-FKW.kicad_sym",
+  "description": "Cree PLCC6 3 in 1 SMD LED with zener protection, PLCC-6",
+  "datasheet": "https://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf",
+  "keywords": "LED RGB",
+  "footprint": "LED_SMD:LED_Cree-PLCC6_4.7x1.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/QLS6A-FKW/",
+  "part_path": "parts/QLS6A-FKW",
+  "symbol_file": "parts/QLS6A-FKW/QLS6A-FKW.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.361Z"
+}

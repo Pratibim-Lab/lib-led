@@ -1,0 +1,17 @@
+{
+  "id": "LED/LD271:LD271",
+  "name": "LD271",
+  "library": "LED",
+  "file": "LED.kicad_symdir/LD271.kicad_sym",
+  "description": "940nm IR-LED, 5mm",
+  "datasheet": "http://www.alliedelec.com/m/d/40788c34903a719969df15f1fbea1056.pdf",
+  "keywords": "IR LED",
+  "footprint": "LED_THT:LED_D5.0mm_IRGrey",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/LD271/",
+  "part_path": "parts/LD271",
+  "symbol_file": "parts/LD271/LD271.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.331Z"
+}

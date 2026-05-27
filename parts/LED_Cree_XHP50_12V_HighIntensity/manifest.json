@@ -1,0 +1,17 @@
+{
+  "id": "LED/LED_Cree_XHP50_12V_HighIntensity:LED_Cree_XHP50_12V_HighIntensity",
+  "name": "LED_Cree_XHP50_12V_HighIntensity",
+  "library": "LED",
+  "file": "LED.kicad_symdir/LED_Cree_XHP50_12V_HighIntensity.kicad_sym",
+  "description": "XLamp® XHP50 LED, 12V, all 4 LEDs in series, high intensity",
+  "datasheet": "https://downloads.cree-led.com/files/ds/x/XLamp-XHP50.3.pdf",
+  "keywords": "led diode",
+  "footprint": "LED_SMD:LED_Cree-XHP50_12V_HighIntensity",
+  "extends": "LED_Cree_XHP50_12V_HighDensity",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/LED_Cree_XHP50_12V_HighIntensity/",
+  "part_path": "parts/LED_Cree_XHP50_12V_HighIntensity",
+  "symbol_file": "parts/LED_Cree_XHP50_12V_HighIntensity/LED_Cree_XHP50_12V_HighIntensity.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.337Z"
+}

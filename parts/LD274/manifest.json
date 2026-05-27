@@ -1,0 +1,17 @@
+{
+  "id": "LED/LD274:LD274",
+  "name": "LD274",
+  "library": "LED",
+  "file": "LED.kicad_symdir/LD274.kicad_sym",
+  "description": "950nm IR-LED, 5mm",
+  "datasheet": "http://pdf.datasheetcatalog.com/datasheet/siemens/LD274.pdf",
+  "keywords": "IR LED",
+  "footprint": "LED_THT:LED_D5.0mm_IRGrey",
+  "extends": "LD271",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/LD274/",
+  "part_path": "parts/LD274",
+  "symbol_file": "parts/LD274/LD274.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.333Z"
+}

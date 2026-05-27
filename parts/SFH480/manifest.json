@@ -1,0 +1,17 @@
+{
+  "id": "LED/SFH480:SFH480",
+  "name": "SFH480",
+  "library": "LED",
+  "file": "LED.kicad_symdir/SFH480.kicad_sym",
+  "description": "GaAlAs Infrared LED (880 nm), TO-18 package",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic1/00083613_0.pdf",
+  "keywords": "IR LED Opto",
+  "footprint": "Package_TO_SOT_THT:TO-18-2_Window",
+  "extends": "SFH482",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/SFH480/",
+  "part_path": "parts/SFH480",
+  "symbol_file": "parts/SFH480/SFH480.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.376Z"
+}

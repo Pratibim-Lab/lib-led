@@ -1,0 +1,17 @@
+{
+  "id": "LED/IR26-21C_L110_TR8:IR26-21C_L110_TR8",
+  "name": "IR26-21C_L110_TR8",
+  "library": "LED",
+  "file": "LED.kicad_symdir/IR26-21C_L110_TR8.kicad_sym",
+  "description": "940nm, 20 deg, Infrared LED, 1206",
+  "datasheet": "http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf",
+  "keywords": "IR LED",
+  "footprint": "LED_SMD:LED_1206_3216Metric",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/IR26-21C_L110_TR8/",
+  "part_path": "parts/IR26-21C_L110_TR8",
+  "symbol_file": "parts/IR26-21C_L110_TR8/IR26-21C_L110_TR8.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.327Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "LED/LTST-C235KGKRKT:LTST-C235KGKRKT",
+  "name": "LTST-C235KGKRKT",
+  "library": "LED",
+  "file": "LED.kicad_symdir/LTST-C235KGKRKT.kicad_sym",
+  "description": "LED dual red/green, 4-pin, down-facing",
+  "datasheet": "https://optoelectronics.liteon.com/upload/download/DS22-2009-0219/LTST-C235KGKRKT.pdf",
+  "keywords": "diode bicolor down-facing reverse",
+  "footprint": "LED_SMD:LED_LiteOn_LTST-C235KGKRKT",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/LTST-C235KGKRKT/",
+  "part_path": "parts/LTST-C235KGKRKT",
+  "symbol_file": "parts/LTST-C235KGKRKT/LTST-C235KGKRKT.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.356Z"
+}

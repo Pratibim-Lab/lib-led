@@ -1,0 +1,17 @@
+{
+  "id": "LED/IR204A:IR204A",
+  "name": "IR204A",
+  "library": "LED",
+  "file": "LED.kicad_symdir/IR204A.kicad_sym",
+  "description": "Infrared LED , 3mm LED package",
+  "datasheet": "http://www.everlight.com/file/ProductFile/IR204-A.pdf",
+  "keywords": "opto IR LED",
+  "footprint": "LED_THT:LED_D3.0mm_IRBlack",
+  "extends": "SFH4356P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/IR204A/",
+  "part_path": "parts/IR204A",
+  "symbol_file": "parts/IR204A/IR204A.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.325Z"
+}

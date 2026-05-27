@@ -1,0 +1,17 @@
+{
+  "id": "LED/Inolux_IN-PI554FCH:Inolux_IN-PI554FCH",
+  "name": "Inolux_IN-PI554FCH",
+  "library": "LED",
+  "file": "LED.kicad_symdir/Inolux_IN-PI554FCH.kicad_sym",
+  "description": "5050 RGB LED 4-Pin with integrated IC",
+  "datasheet": "http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf",
+  "keywords": "RGB LED NeoPixel addressable",
+  "footprint": "LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/Inolux_IN-PI554FCH/",
+  "part_path": "parts/Inolux_IN-PI554FCH",
+  "symbol_file": "parts/Inolux_IN-PI554FCH/Inolux_IN-PI554FCH.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.317Z"
+}

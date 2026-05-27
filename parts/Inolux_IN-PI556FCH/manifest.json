@@ -1,0 +1,17 @@
+{
+  "id": "LED/Inolux_IN-PI556FCH:Inolux_IN-PI556FCH",
+  "name": "Inolux_IN-PI556FCH",
+  "library": "LED",
+  "file": "LED.kicad_symdir/Inolux_IN-PI556FCH.kicad_sym",
+  "description": "5050 RGB LED 6-Pin with integrated IC",
+  "datasheet": "http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI556FCH.pdf",
+  "keywords": "RGB LED NeoPixel addressable",
+  "footprint": "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/Inolux_IN-PI556FCH/",
+  "part_path": "parts/Inolux_IN-PI556FCH",
+  "symbol_file": "parts/Inolux_IN-PI556FCH/Inolux_IN-PI556FCH.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.322Z"
+}

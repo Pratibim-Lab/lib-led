@@ -1,0 +1,17 @@
+{
+  "id": "LED/SFH482:SFH482",
+  "name": "SFH482",
+  "library": "LED",
+  "file": "LED.kicad_symdir/SFH482.kicad_sym",
+  "description": "GaAlAs Infrared LED (880 nm), TO-18 package",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic2/00182155_0.pdf/SFH%20482%20E7800,%20Lead%20(Pb)%20Free%20Product%20-%20RoHS%20Compliant.pdf",
+  "keywords": "opto IR LED",
+  "footprint": "Package_TO_SOT_THT:TO-18-2_Window",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/SFH482/",
+  "part_path": "parts/SFH482",
+  "symbol_file": "parts/SFH482/SFH482.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.378Z"
+}

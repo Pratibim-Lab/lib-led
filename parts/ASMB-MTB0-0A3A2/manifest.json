@@ -1,0 +1,17 @@
+{
+  "id": "LED/ASMB-MTB0-0A3A2:ASMB-MTB0-0A3A2",
+  "name": "ASMB-MTB0-0A3A2",
+  "library": "LED",
+  "file": "LED.kicad_symdir/ASMB-MTB0-0A3A2.kicad_sym",
+  "description": "Tricolor Black Surface LED, Common Anode Pin 1, PLCC-4",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-4186EN",
+  "keywords": "led rgb diode",
+  "footprint": "LED_SMD:LED_Avago_PLCC4_3.2x2.8mm_CW",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-led@master/parts/ASMB-MTB0-0A3A2/",
+  "part_path": "parts/ASMB-MTB0-0A3A2",
+  "symbol_file": "parts/ASMB-MTB0-0A3A2/ASMB-MTB0-0A3A2.kicad_sym",
+  "source_library": "LED.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:42.270Z"
+}
